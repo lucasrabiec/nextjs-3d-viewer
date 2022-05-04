@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.viewer {
+  height: 500px;
+  width: 100%;
+}
+
 .footer {
   display: flex;
   flex: 1;
