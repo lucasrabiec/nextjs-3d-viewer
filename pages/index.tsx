@@ -1,8 +1,9 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
+
 import styles from '../styles/Home.module.css'
-import {ModelViewer} from "../components/model-viewer/model-viewer";
+import { ModelViewer } from "../components/model-viewer/model-viewer";
 
 const Home: NextPage = () => {
   return (
